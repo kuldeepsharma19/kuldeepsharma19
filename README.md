@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuldeepsharma19
 - 👀 I’m interested in server-side scripting.
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning Nodejs and mongoDB.
 - 💞️ I’m looking to collaborate on open source projects. 
 - 📫 Reach me out @cooldipshawarma
 
